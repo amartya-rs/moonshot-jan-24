@@ -143,7 +143,7 @@ const Modal = ({ data, handler }) => {
             <div className="tags-wrapper">
                Tags:
                {tags.split(",").map((tag) => (
-                  <span className="tags">{tag}</span>
+                  <span className="modal-tags">{tag}</span>
                ))}
             </div>
          </div>
