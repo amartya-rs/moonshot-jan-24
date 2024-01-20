@@ -1,0 +1,10 @@
+body {
+   margin: 0;
+   padding: 0;
+   color: rgba(255, 255, 255, 1);
+}
+
+a {
+   text-decoration: none;
+   color: inherit;
+}
